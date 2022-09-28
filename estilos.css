@@ -66,7 +66,7 @@ p{
 
 }
 .btn-mat:hover{
-    box-shadow: -6px -6px 12px #cb7d2e, 6px 6px 12px #cdb80c;
+    box-shadow: -6px -6px 12px #c60ea1, 6px 6px 12px #cdb80c;
 }
 .btn-gal{
     position: relative;
@@ -85,7 +85,7 @@ p{
 
 }
 .btn-gal:hover{
-    box-shadow: -6px -6px 12px #cb7d2e, 6px 6px 12px #cbd80c;
+    box-shadow: -6px -6px 12px #c60ea1, 6px 6px 12px #cbd80c;
 }
 .btn-wsp{
     position: relative;
