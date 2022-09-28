@@ -43,7 +43,7 @@ img{
     border-style: solid;
     border-color: azure;
 }
-btn-ini{
+.btn-ini{
     position: relative;
     color:#000;
     padding: 12px 30px;
